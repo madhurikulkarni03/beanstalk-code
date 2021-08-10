@@ -1,6 +1,6 @@
 <?php
 
-$bucket = 'YOUR SOURCE BUCKET NAME';
+$bucket = 'MAIN BUCKET';
 
     // upload files to S3
     if (isset($_POST['save'])){
